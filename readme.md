@@ -45,7 +45,7 @@ Création de la base de données et des tables : Créez la base de données et t
 Opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) : Rédigez des scripts pour insérer, mettre à jour, et supprimer des données dans les tables.
 Jointures : Réalisez des requêtes de jointure pour lier plusieurs tables, par exemple, afficher les réservations d'un membre.
 6. Fonctionnalités en PHP
- les fonctionnalités suivantes en PHP pour interagir avec la base de données :
+Développez les fonctionnalités suivantes en PHP pour interagir avec la base de données :
 
 Ajouter des données via des formulaires :
 Créez des formulaires pour ajouter des membres, des activités, et des réservations.
