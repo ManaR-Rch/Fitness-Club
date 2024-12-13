@@ -10,7 +10,7 @@ Le but de ce projet est de concevoir une solution complète, en se basant sur un
 
 Instructions de Réalisation
 1. Schéma de la Base de Données (ERD)
- du schéma de base de données fourni : Vous devrez examiner le schéma fourni, qui décrit les entités principales du système et leurs relations.
+Analyse du schéma de base de données fourni : Vous devrez examiner le schéma fourni, qui décrit les entités principales du système et leurs relations.
 Cahier des charges : Rédigez un cahier des charges décrivant :
 Les entités principales : Membres, Activités, Réservations.
 Les relations entre les entités : Par exemple, un membre peut réserver plusieurs activités, et une activité peut être réservée par plusieurs membres.
