@@ -52,7 +52,7 @@ Créez des formulaires pour ajouter des membres, des activités, et des réserva
 Utilisez des requêtes SQL pour insérer ces données dans la base de données.
 Afficher dynamiquement les données :
 Affichez la liste des membres, des activités disponibles, et des réservations de manière dynamique à partir de la base de données.
-Utilisez des requêtes SQL pour récupérer et afficher ces données sous forme de tableaux dans les pages HTML.
+Utilisez des requêtes SQL  récupérer et afficher ces données sous forme de tableaux dans les pages HTML.
 Structure du Projet
 Voici une idée de structure pour organiser les fichiers de votre projet :
 
