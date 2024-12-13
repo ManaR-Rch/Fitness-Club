@@ -48,7 +48,7 @@ Jointures : Réalisez des requêtes de jointure pour lier plusieurs tables, par 
 Développez les fonctionnalités suivantes en PHP pour interagir avec la base de données :
 
 Ajouter des données via des formulaires :
-Créez des formulaires pour ajouter des membres, des activités, et des réservations.
+ des formulaires pour ajouter des membres, des activités, et des réservations.
 Utilisez des requêtes SQL pour insérer ces données dans la base de données.
 Afficher dynamiquement les données :
 Affichez la liste des membres, des activités disponibles, et des réservations de manière dynamique à partir de la base de données.
