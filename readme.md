@@ -18,6 +18,7 @@ Les besoins fonctionnels : Quelles fonctionnalités sont nécessaires pour chaqu
 2. Conception des Tables (Bonus)
 À partir du schéma de base de données, vous devrez concevoir les tables nécessaires :
 
+Conception des tables : Créez les tables en respectant la structure donnée, incluant les clés primaires et étrangères.
 Ajout d’attributs ou tables supplémentaires : Si nécessaire, ajoutez des attributs ou de nouvelles tables pour couvrir des besoins spécifiques (par exemple, gestion des abonnements ou des niveaux d'accès des membres).
 3. Diagramme UML (Cas d'Utilisation)
 Réalisez un diagramme de cas d'utilisation (Use Case Diagram) pour identifier :
