@@ -53,8 +53,5 @@ Utilisez des requêtes SQL pour insérer ces données dans la base de données.
 Afficher dynamiquement les données :
 Affichez la liste des membres, des activités disponibles, et des réservations de manière dynamique à partir de la base de données.
 Utilisez des requêtes SQL pour récupérer et afficher ces données sous forme de tableaux dans les pages HTML.
-Structure du Projet
-Voici une idée de structure pour organiser les fichiers de votre projet :
-
-
+Structure du Projet.
 Ce projet vous permettra de mettre en place un système complet pour la gestion d'une salle de sport, incluant la gestion des membres, des activités, et des réservations. Vous devrez développer des fonctionnalités en PHP et interagir avec une base de données MySQL pour assurer la gestion dynamique de ces informations.
